@@ -19,18 +19,16 @@ This project is developed as part of my **semester project** and connects with a
 ## 🛠️ Tech Stack  
 - **Frontend:** Flutter (Dart)  
 - **Backend:** Python (TensorFlow, Librosa) → [Repo](https://github.com/CODEWITHSAJJAD/AudioClassification)  
-- **State Management:** Provider / GetX (optional)  
-- **UI:** Lottie animations, Gradient design, Google Fonts  
-
 ---
 
 ## 📱 App Preview (UI Concept)  
 *(Add screenshots or GIFs here when available)*  
 
 Example UI Flow:  
-1. 🎬 Splash Screen  
-2. 🎤 Record / Upload Audio  
-3. 📊 Classification Result  
+1. Home Screen 
+2. Record Audio
+3. Play Audio
+4. 📊 Classification Result  
 
 ---
 
